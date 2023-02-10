@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/2QpnSwLwr9fkDtiN4m/200w.gif?cid=6c09b9521qlt3j8qw2jrgnma4w2tswh3sjdjxja366p3271m&rid=200w.gif&ct=g">
 
